@@ -2,10 +2,11 @@
 Hi there 👋I'm sumanth.m
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Html and phyton
-- 👯 I’m looking to collaborate on problem sloving skills
-- 📫 How to reach me:contact me directly on this email 121810315025@gitam.in
-- 😄 Pronouns:He/Him
-- ⚡ Nicknames:sumu
+- 👯 I’m looking to collaborate on AI and ML projects
+- 🤔 I'm looking help with cloud practitioner
+- 📫 How to reach me:contact me directly on this email-121810315025@gitam.in 
+- 😄 nickname: sumu
+- ⚡ Fun fact: i can't work with out music 
 -->
 
 
